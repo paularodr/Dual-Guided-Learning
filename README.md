@@ -1,5 +1,5 @@
 # Dual-Guided-Learning
-Code accompanying the paper "A Dual Perspective on Decision-Focused Learning: Scalable Training via Dual-Guided Surrogates" by Paula Rodriguez-Diaz, Kirk Bansak, and Elisabeth Paulson
+Code accompanying the paper ["A Dual Perspective on Decision-Focused Learning: Scalable Training via Dual-Guided Surrogates"](https://arxiv.org/abs/2511.04909) by Paula Rodriguez-Diaz, Kirk Bansak, and Elisabeth Paulson
 
 ## Set up environment
 
